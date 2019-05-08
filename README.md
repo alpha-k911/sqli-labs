@@ -1,6 +1,6 @@
 # SQLi-labs
 
-**In this Repository, I have published the write-ups all the levels in SQLi-labs **
+** In this Repository, I have published the write-ups for all the levels in SQLi-labs **
 
 ## About
 
