@@ -32,8 +32,8 @@ Following labs are covered for GET and POST scenarios:
 		* Stripping UNION & SELECT 
 	* Impidence mismatch
 	
-9. Bypass **addslashes()
+9. Bypass **addslashes()**
 
 10. Bypassing **mysql_real_escape_string**. (under special conditions)
-11. Stacked **SQL injections.
+11. Stacked **SQL injections**.
 12. Secondary channel extraction
