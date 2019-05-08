@@ -1,6 +1,6 @@
 # SQLi-labs
 
-**In this Repository, I have published the write-ups for all the levels in SQLi-labs.**
+**In this [repository](https://github.com/alpha-k911/sqli-labs/), I have published the write-ups for all the levels in SQLi-labs.**
 
 ## About
 
