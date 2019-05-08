@@ -13,17 +13,17 @@
 4. Update Query Injection.
 5. Insert Query Injections.
 6. Header Injections.
-	1.Referer based.
-	2.UserAgent based.
-	3.Cookie based.
+	* Referer based.
+	* UserAgent based.
+	*Cookie based.
 7. Second Order Injections
 8. Bypassing WAF
-	1. Bypassing Blacklist filters
+	* Bypassing Blacklist filters
 		Stripping comments
 		Stripping OR & AND
 		Stripping SPACES and COMMENTS
 		Stripping UNION & SELECT
-	2. Impidence mismatch
+	* Impidence mismatch
 9. Bypass addslashes()
 10. Bypassing mysql_real_escape_string. (under special conditions)
 11. Stacked SQL injections.
