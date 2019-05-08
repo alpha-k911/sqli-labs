@@ -4,7 +4,7 @@
 
 ## About
 
-**[SQLi-Labs](https://github.com/Audi-1/sqli-labs) is a platform to learn SQLI.**
+**[SQLi-Labs](https://github.com/Audi-1/sqli-labs) is a platform to learn SQLI Vulnerabilities.**
 
 Following labs are covered for GET and POST scenarios:
 
