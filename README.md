@@ -8,8 +8,8 @@
 2. Error Based Injections (Double Injection Based)
 
 3. BLIND Injections:
-	1.Boolian Based
-	2.Time Based
+	* Boolian Based
+	* Time Based
 4. Update Query Injection.
 5. Insert Query Injections.
 6. Header Injections.
