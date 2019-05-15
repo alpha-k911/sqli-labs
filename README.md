@@ -14,7 +14,7 @@ Following labs are covered for GET and POST scenarios:
 2. Error Based Injections (Double Injection Based)
 
 3. BLIND Injections:
-	* Boolian Based
+	* Boolean Based
 	* Time Based
 4. Update Query Injection.
 
